@@ -1,0 +1,30 @@
+.alice-carousel__stage{
+    display: flex;
+}
+
+
+.alice-carousel__stage-item{
+
+    width: 200px;
+    align-items: center;
+    text-decoration: none;
+    list-style-type: none;
+    color:white
+}
+
+
+.banner{
+                
+    background-image:url("../../../public/banner2.jpg");
+    color:white;
+    padding-top: 25px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.tagLine{
+   text-align: center;
+
+}
